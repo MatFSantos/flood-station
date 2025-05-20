@@ -41,4 +41,6 @@ As outras duas *tasks* são referentes aos modos de operação. A **vNormalModeT
 
 No lugar de usar variáveis globais, foram utilizadas filas e funções de suspensão e execução de tarefas, afim de controlar a concorrência e tirar proveito ao máximo das funcionalidades dessas duas ferramentas do **RTOS**.
 
-# Links para acesso ao código e ao vídeo. 
+# Link para acesso e ao vídeo. 
+
+[Video ensaio](https://youtu.be/xCyiW2ymYnc)
